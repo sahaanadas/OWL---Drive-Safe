@@ -32,11 +32,3 @@ Execution/Installation Guidelines :-
 
 The PI (inside a  PI-case) would be placed somewhere beneath the steering wheel. The PI-cam would have a double-sided tape attached to its back along with a height-adjustable stand and the stand would be stuck on the Dashboard
 The software will start running as soon as the car is started (when the PI board will get power, the algorithms (inside the software embedded in it) will get loaded in its RAM. Use of sunglasses is discouraged as the camera placed on the dashboard of the car would most likely would not be able to recognize drowsiness in that case. When drowsiness is detected, a software interrupt would be initialized which would cause the mini speakers (attached to the side of the PI) to emit a shrill voice and the sharp lights (stuck on both sides of the stand) directed towards the drive's eyes, to blink in short intervals.
-
-
-
-Team:-
-
-Sonali Mehta
-Alarsh Tiwari
-
