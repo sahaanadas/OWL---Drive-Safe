@@ -1,4 +1,3 @@
-Project Description:-
 OWL is a next-generation safety add-on feature for cars of all segments.
 Drowsy driving is a major problem worldwide. The risk, danger, and often tragic results of drowsy driving are alarming. It is the dangerous combination of driving and sleepiness or fatigue. This usually happens when a driver has not slept enough, but it can also happen due to untreated sleep disorders, medications, drinking alcohol, or shift work.
 
